@@ -114,7 +114,7 @@ Finish time: 4:00pm<br>
 
 Actual time needed to complete: 3hrs (after code review)<br>
 
-Netlify Deploy<br>
+[Netlify Deploy](https://62e92d0624c22306b72ef1c3--strong-narwhal-94c51b.netlify.app)<br>
 ![image](https://user-images.githubusercontent.com/108029724/182408587-2e61746b-ca2b-4c94-9b61-6d6ac50fe6a2.png)
 
 
