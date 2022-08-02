@@ -77,7 +77,9 @@ Author: Eman Riziq Version: 1.0.2 (increment the patch/fix version number if you
 #Getting Started create a react app install axios add .env file and put it in .gitignore get access token from locationIQ install bootstrap #Architecture ReactJS Bootstrap Axios LocationIQ Dotenv #Change Log 31-07-2022 11:00pm - Application now has a fully-functional search with a GET route for the location resource. 01-08-2022 7:00pm - Application now has a fully-functional search with a GET route for the location resource and displays map image and an error. 01-08-2022 9:00am - Application now has a form with non complete API calling 01-08-2022 9:20pm - the Application has every requested component but give err 403
 
 Credit and Collaborations
-1- Salah AL-hamawi
+1- Salah AL-hamawi 2- Eman Riziq
+![image](https://user-images.githubusercontent.com/108029724/182400806-44cfd675-d516-4313-803d-695e394a1af5.png)
+
 
 web request-response cycle
 
